@@ -1,0 +1,49 @@
+.item {
+    display: flex;
+    align-items: center;
+    gap: 120px;
+}
+
+.right {
+    padding: 20px;
+
+    width: 488px;
+    height: 488px;
+
+    flex: 0 0 488px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 40px;
+    background: var(--color-bg-purple-gradient);
+}
+
+.img {
+    max-width: 100%;
+}
+
+.title {
+    max-width: 460px;
+
+    color: var(--color-white);
+}
+
+.title span {
+    color: var(--color-blue);
+}
+
+.text {
+    margin-top: 32px;
+
+    max-width: 360px;
+
+    color: var(--color-white);
+}
+
+.button {
+    margin-top: 32px;
+
+    font-size: 18px;
+}

@@ -1,0 +1,24 @@
+.currency {
+    padding: 42px 56px;
+
+    grid-column-start: 1;
+    grid-column-end: 13;
+
+    border-radius: 40px;
+    background: var(--color-bg-light);
+}
+
+.title {
+
+}
+
+.text {
+    margin-top: 20px;
+}
+
+.list {
+    margin-top: 42px;
+
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "locale": "en",
+    "video": {
+      "dark": "",
+      "light": ""
+    },
+    "title": "One click to start",
+    "text": "Open <a href='/'>@CryptoBot</a>, go to <a href=''>Crypto Pay</a> and tap Create App to get API Token"
+  },
+  {
+    "locale": "ru",
+    "video": {
+      "dark": "",
+      "light": ""
+    },
+    "title": "One click to start",
+    "text": "Open <a href='/'>@CryptoBot</a>, go to <a href=''>Crypto Pay</a> and tap Create App to get API Token"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "locale": "en",
+    "links": [
+      {
+        "name": "Use cases",
+        "link": ""
+      },
+      {
+        "name": "Features",
+        "link": ""
+      },
+      {
+        "name": "How to start",
+        "link": ""
+      }
+    ],
+    "button": "Get started",
+    "faq": "©2023 Crypto Bot"
+  },
+  {
+    "locale": "ru",
+    "links": [
+      {
+        "name": "Use cases",
+        "link": ""
+      },
+      {
+        "name": "Features",
+        "link": ""
+      },
+      {
+        "name": "How to start",
+        "link": ""
+      }
+    ],
+    "button": "Начать",
+    "faq": "©2023 Crypto Bot"
+  }
+]

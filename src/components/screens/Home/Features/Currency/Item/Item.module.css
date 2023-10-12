@@ -1,0 +1,13 @@
+.item {
+    text-align: center;
+}
+
+.text {
+    margin-top: 8px;
+
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+
+    color: var(--color-text-40);
+}

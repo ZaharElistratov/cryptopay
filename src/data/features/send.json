@@ -1,0 +1,14 @@
+[
+  {
+    "locale": "en",
+    "video": "",
+    "title": "Send coins to users",
+    "text": "Automate payouts to users with <a href=''>transfer</a> API method"
+  },
+  {
+    "locale": "ru",
+    "video": "",
+    "title": "Send coins to users",
+    "text": "Automate payouts to users with <a href=''>transfer</a> API method"
+  }
+]

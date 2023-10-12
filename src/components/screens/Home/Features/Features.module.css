@@ -1,0 +1,10 @@
+.features {
+    padding: 24px 0;
+    margin-top: 120px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 20px;
+}

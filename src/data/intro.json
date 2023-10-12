@@ -1,0 +1,72 @@
+[
+  {
+    "locale": "en",
+    "title": "Crypto payments for telegram bots",
+    "text": "Seamlessly accept crypto payments in your Telegram bots and services.",
+    "button": "Get started",
+    "img": {
+      "light": "/img/home/intro/img-light.png",
+      "dark": "/img/home/intro/img-dark.png"
+    },
+    "bots": {
+      "list": [
+        {
+          "img": "/img/home/intro/bots/img-1.png",
+          "link": ""
+        },
+        {
+          "img": "/img/home/intro/bots/img-2.png",
+          "link": ""
+        },
+        {
+          "img": "/img/home/intro/bots/img-3.png",
+          "link": ""
+        },
+        {
+          "img": "/img/home/intro/bots/img-4.png",
+          "link": ""
+        },
+        {
+          "img": "/img/home/intro/bots/img-5.png",
+          "link": ""
+        }
+      ],
+      "text": "Popular bots use Crypto Pay"
+    }
+  },
+  {
+    "locale": "ru",
+    "title": "Криптовалютные платежи для Telegram ботов",
+    "text": "Беспрепятственно принимайте криптовалютные платежи в своих ботах и сервисах Telegram.",
+    "button": "Начать",
+    "img": {
+      "light": "/img/home/intro/img-light.png",
+      "dark": "/img/home/intro/img-dark.png"
+    },
+    "bots": {
+      "list": [
+        {
+          "img": "/img/home/intro/bots/img-1.png",
+          "link": ""
+        },
+        {
+          "img": "/img/home/intro/bots/img-2.png",
+          "link": ""
+        },
+        {
+          "img": "/img/home/intro/bots/img-3.png",
+          "link": ""
+        },
+        {
+          "img": "/img/home/intro/bots/img-4.png",
+          "link": ""
+        },
+        {
+          "img": "/img/home/intro/bots/img-5.png",
+          "link": ""
+        }
+      ],
+      "text": "Популярные боты используют Crypto Pay"
+    }
+  }
+]

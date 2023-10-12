@@ -1,0 +1,14 @@
+[
+  {
+    "locale": "en",
+    "video": "",
+    "title": "Anonymous payments",
+    "text": "Use allow_anonymous parameter in <a href=''>createInvoice</a> method to give user an option to remain private"
+  },
+  {
+    "locale": "ru",
+    "video": "",
+    "title": "Anonymous payments",
+    "text": "Use allow_anonymous parameter in <a href=''>createInvoice</a> method to give user an option to remain private"
+  }
+]

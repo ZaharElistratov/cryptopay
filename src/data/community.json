@@ -1,0 +1,88 @@
+[
+  {
+    "locale": "en",
+    "title": "Join dev community",
+    "text": "Connect with bot developers and explore the possibilities our crypto payments service unlocks.",
+    "button": "Open Devs chat",
+    "list": [
+      {
+        "img": {
+          "src": "/img/home/community/nodejs.svg",
+          "alt": "nodejs"
+        },
+        "text": "crypto-pay-api"
+      },
+      {
+        "img": {
+          "src": "/img/home/community/dotnet.svg",
+          "alt": "dotnet"
+        },
+        "text": "CryptoPay"
+      },
+      {
+        "img": {
+          "src": "/img/home/community/php.svg",
+          "alt": "php"
+        },
+        "text": "crypto-pay-api"
+      },
+      {
+        "img": {
+          "src": "/img/home/community/python.svg",
+          "alt": "python"
+        },
+        "text": "aiocryptopay"
+      },
+      {
+        "img": {
+          "src": "/img/home/community/golang.svg",
+          "alt": "golang"
+        },
+        "text": "cryptobot-sdk-golang"
+      }
+    ]
+  },
+  {
+    "locale": "ru",
+    "title": "Присоединяйтесь к сообществу разработчиков",
+    "text": "Общайтесь с разработчиками ботов и изучайте возможности, которые открывает наш сервис криптовалютных платежей.",
+    "button": "Открытый чат разработчиков",
+    "list": [
+      {
+        "img": {
+          "src": "/img/home/community/nodejs.svg",
+          "alt": "nodejs"
+        },
+        "text": "crypto-pay-api"
+      },
+      {
+        "img": {
+          "src": "/img/home/community/dotnet.svg",
+          "alt": "dotnet"
+        },
+        "text": "CryptoPay"
+      },
+      {
+        "img": {
+          "src": "/img/home/community/php.svg",
+          "alt": "php"
+        },
+        "text": "crypto-pay-api"
+      },
+      {
+        "img": {
+          "src": "/img/home/community/python.svg",
+          "alt": "python"
+        },
+        "text": "aiocryptopay"
+      },
+      {
+        "img": {
+          "src": "/img/home/community/golang.svg",
+          "alt": "golang"
+        },
+        "text": "cryptobot-sdk-golang"
+      }
+    ]
+  }
+]

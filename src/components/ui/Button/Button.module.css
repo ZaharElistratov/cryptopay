@@ -1,0 +1,28 @@
+.button {
+  padding: 18px 42px;
+
+  font-family: var(--font-inter);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2em;
+
+  border-radius: 60px;
+  border: 1px solid var(--color-white-60);
+  color: var(--color-white);
+  background: transparent;
+
+  transition: background-color .3s ease, border .3s ease;
+}
+
+.button:hover {
+  border: 1px solid var(--color-white);
+}
+
+.button.primary {
+  border: 0;
+  background: var(--color-blue);
+}
+
+.button.primary:hover {
+  background: var(--color-blue-dark);
+}

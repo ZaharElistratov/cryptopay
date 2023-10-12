@@ -1,0 +1,32 @@
+:root {
+  /* Базовые цвета */
+  --color-white: #FFFFFF;
+  --color-white-60: rgba(255, 255, 255, .6);
+  --color-white-24: rgba(255, 255, 255, .24);
+  --color-grey: #18181D;
+
+  /* Цвета, зависящие от темы */
+  --color-bg: #FFFFFF;
+  --color-bg-light: #F7F9FB;
+  --color-text: #0D0D12;
+  --color-text-80: rgba(17, 17, 17, .8);
+  --color-text-40: rgba(17, 17, 17, .4);
+
+  /* Синий цвет */
+  --color-blue: #41A4DF;
+  --color-blue-dark: #297EE2;
+  --color-blue-gradient: linear-gradient(233deg, #9FCCFA -20%, #0974F1 97%);
+
+  /* Фоновые градиенты */
+  --color-bg-purple-gradient: linear-gradient(297deg, #8EC5FC 8.25%, #E0C3FC 91.76%);
+  --color-bg-blue-gradient: linear-gradient(0deg, #C2E9FB -16.6%, #A1C4FD 106.15%);
+  --color-bg-yellow-gradient: linear-gradient(207deg, #FCB69F 6.91%, #FFECD2 92.45%);
+}
+
+[data-theme="dark"] {
+  --color-bg: #0D0D12;
+  --color-bg-light: #18181D;
+  --color-text: #FFFFFF;
+  --color-text-80: rgba(255, 255, 255, .8);
+  --color-text-40: rgba(255, 255, 255, .4);
+}

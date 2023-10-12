@@ -1,0 +1,84 @@
+[
+  {
+    "locale": "en",
+    "slides": [
+      {
+        "title": "<span>Instant Auto&nbsp;Sales:</span> Boost&nbsp;conversion",
+        "text": "Immediately deliver digital products and services to your users.",
+        "button": {
+          "text": "Open API Docs",
+          "link": ""
+        },
+        "img": {
+          "src": "/img/home/use-cases/img-1.svg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "<span>Channels integration:</span> Seamless access",
+        "text": "Automatically unlock exclusive content to your users.",
+        "button": {
+          "text": "Open API Docs",
+          "link": ""
+        },
+        "img": {
+          "src": "/img/home/use-cases/img-2.svg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "<span>Endless customization:</span> with Webhooks",
+        "text": "Receive successful payment notifications in real-time. Integrate to any scenario of your service.",
+        "button": {
+          "text": "Open API Docs",
+          "link": ""
+        },
+        "img": {
+          "src": "/img/home/use-cases/img-3.svg",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  {
+    "locale": "ru",
+    "slides": [
+      {
+        "title": "<span>Instant Auto&nbsp;Sales:</span> Boost&nbsp;conversion",
+        "text": "Immediately deliver digital products and services to your users.",
+        "button": {
+          "text": "Open API Docs",
+          "link": ""
+        },
+        "img": {
+          "src": "/img/home/use-cases/img-1.svg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "<span>Channels integration:</span> Seamless access",
+        "text": "Automatically unlock exclusive content to your users.",
+        "button": {
+          "text": "Open API Docs",
+          "link": ""
+        },
+        "img": {
+          "src": "/img/home/use-cases/img-2.svg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "<span>Endless customization:</span> with Webhooks",
+        "text": "Receive successful payment notifications in real-time. Integrate to any scenario of your service.",
+        "button": {
+          "text": "Open API Docs",
+          "link": ""
+        },
+        "img": {
+          "src": "/img/home/use-cases/img-3.svg",
+          "alt": ""
+        }
+      }
+    ]
+  }
+]

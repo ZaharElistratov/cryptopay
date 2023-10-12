@@ -1,0 +1,15 @@
+.item {
+    width: 180px;
+}
+
+.icon {
+
+}
+
+.text {
+    margin-top: 16px;
+
+    font-weight: 500;
+
+    color: var(--color-text-80);
+}

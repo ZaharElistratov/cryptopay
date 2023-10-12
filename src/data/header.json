@@ -1,0 +1,38 @@
+[
+  {
+    "locale": "en",
+    "links": [
+      {
+        "name": "Use cases",
+        "link": ""
+      },
+      {
+        "name": "Features",
+        "link": ""
+      },
+      {
+        "name": "How to start",
+        "link": ""
+      }
+    ],
+    "button": "Get started"
+  },
+  {
+    "locale": "ru",
+    "links": [
+      {
+        "name": "Use cases",
+        "link": ""
+      },
+      {
+        "name": "Features",
+        "link": ""
+      },
+      {
+        "name": "How to start",
+        "link": ""
+      }
+    ],
+    "button": "Начать"
+  }
+]

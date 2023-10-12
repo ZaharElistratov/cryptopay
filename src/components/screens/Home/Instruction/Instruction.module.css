@@ -1,0 +1,26 @@
+.instruction {
+    margin-top: 120px;
+    padding: 120px 0;
+
+    background: var(--color-bg-light);
+}
+
+.container {
+
+}
+
+.title {
+    text-align: center;
+}
+
+.title span {
+    color: var(--color-blue);
+}
+
+.list {
+    margin-top: 40px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}

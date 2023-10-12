@@ -1,0 +1,25 @@
+.title {
+    font-family: var(--font-inter);
+    font-weight: 600;
+    line-height: 1.1em;
+}
+
+h1.title {
+    font-size: 80px;
+    letter-spacing: -2.4px;
+}
+
+h2.title {
+    font-size: 56px;
+    letter-spacing: -1.68px;
+}
+
+h3.title {
+    font-size: 42px;
+    letter-spacing: -1.26px;
+}
+
+h4.title {
+    font-size: 32px;
+    letter-spacing: -0.96px;
+}

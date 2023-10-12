@@ -1,0 +1,69 @@
+[
+  {
+    "locale": "en",
+    "title": "Quick start using <span>Crypto Pay</span>",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Authorizing your app",
+        "list": [
+          "Open <a href=''>@CryptoBot</a>",
+          "Go to <a href=''>Crypto Pay</a>",
+          "Tap <a href=''>Create App</a>",
+          "Get <a href=''>API Token</a>"
+        ],
+        "img": {
+          "src": "/img/home/instruction/img-1.svg",
+          "alt": ""
+        }
+      },
+      {
+        "number": "2",
+        "title": "Crypto Pay API Request",
+        "text": "Requests are only served over HTTPS To pass parameters use:",
+        "list": [
+          "<span>URL query string</span>",
+          "<span>application/json </span>",
+          "<span>application/x-www-form-urlencoded</span>",
+          "<span>multipart/form-data</span>"
+        ],
+        "img": {
+          "src": "/img/home/instruction/img-2.svg",
+          "alt": ""
+        }
+      },
+      {
+        "number": "3",
+        "title": "Getting updates",
+        "text": "There are two ways of receiving updates for your app:",
+        "list": [
+          "<span>getInvoices</span> method to get a list of created invoices.",
+          "<span>Webhooks</span> to receive updates in realtime."
+        ],
+        "img": {
+          "src": "/img/home/instruction/img-3.svg",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  {
+    "locale": "ru",
+    "steps": [
+      {
+        "title": "Instant Auto&nbsp;Sales: Boost&nbsp;conversion",
+        "text": "Immediately deliver digital products and services to your users.",
+        "list": [
+          {
+            "text": "Open API Docs",
+            "link": ""
+          }
+        ],
+        "img": {
+          "src": "",
+          "alt": ""
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+.statistics {
+    padding: 42px 56px;
+
+    grid-column-start: 6;
+    grid-column-end: 13;
+    grid-row-start: 2;
+    grid-row-end: 4;
+
+    border-radius: 40px;
+    background: var(--color-bg-light);
+}
+
+.title {
+    margin-top: 24px;
+}
+
+.text {
+    margin-top: 20px;
+}
+
+.text a {
+    color: var(--color-blue);
+}

@@ -1,0 +1,28 @@
+.bots {
+    margin-top: 56px;
+}
+
+.list {
+    display: flex;
+}
+
+.item {
+    margin-right: -32px;
+    padding: 4px;
+
+    display: block;
+    position: relative;
+
+    border-radius: 100%;
+    background: var(--color-bg);
+}
+
+.icon {
+    display: block;
+
+    border-radius: 100%;
+}
+
+.text {
+    margin-top: 16px;
+}

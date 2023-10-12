@@ -1,0 +1,14 @@
+[
+  {
+    "locale": "en",
+    "video": "",
+    "title": "Real-time exchange rates",
+    "text": "Request up to date currency rate with the <a href=''>getExchangeRates</a> API method"
+  },
+  {
+    "locale": "ru",
+    "video": "",
+    "title": "Real-time exchange rates",
+    "text": "Request up to date currency rate with the <a href=''>getExchangeRates</a> API method"
+  }
+]

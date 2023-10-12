@@ -1,0 +1,20 @@
+[
+  {
+    "locale": "en",
+    "video": {
+      "dark": "",
+      "light": ""
+    },
+    "title": "Payment statistics",
+    "text": "Open <a href='/'>@CryptoBot</a>, go to <a href=''>Crypto Pay</a> and <a href=''>My Apps</a>, App Name to get Statistics"
+  },
+  {
+    "locale": "ru",
+    "video": {
+      "dark": "",
+      "light": ""
+    },
+    "title": "Payment statistics",
+    "text": "Open <a href='/'>@CryptoBot</a>, go to <a href=''>Crypto Pay</a> and <a href=''>My Apps</a>, App Name to get Statistics"
+  }
+]

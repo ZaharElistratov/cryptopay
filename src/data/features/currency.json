@@ -1,0 +1,128 @@
+[
+  {
+    "locale": "en",
+    "title": "Accept a wide range of cryptocurrencies",
+    "text": "Bill any supported cryptocurrencies with asset parameter in GetInvoice method",
+    "list": [
+      {
+        "img": {
+          "src": "/img/home/features/currency/ethereum.svg",
+          "alt": "Ethereum"
+        },
+        "text": "ETH"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/usdt.svg",
+          "alt": "usdt"
+        },
+        "text": "USDT"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/ton.svg",
+          "alt": "Ton"
+        },
+        "text": "TON"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/bitcoin.svg",
+          "alt": "Bitcoin"
+        },
+        "text": "BTC"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/tron.svg",
+          "alt": "tron"
+        },
+        "text": "TRX"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/litecoin.svg",
+          "alt": "litecoin"
+        },
+        "text": "LTC"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/usdc.svg",
+          "alt": "usdc"
+        },
+        "text": "USDC"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/binance-coin.svg",
+          "alt": "binance coin"
+        },
+        "text": "BNB"
+      }
+    ]
+  },
+  {
+    "locale": "ru",
+    "title": "Accept a wide range of cryptocurrencies",
+    "text": "Bill any supported cryptocurrencies with asset parameter in GetInvoice method",
+    "list": [
+      {
+        "img": {
+          "src": "/img/home/features/currency/ethereum.svg",
+          "alt": "Ethereum"
+        },
+        "text": "ETH"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/usdt.svg",
+          "alt": "usdt"
+        },
+        "text": "USDT"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/ton.svg",
+          "alt": "Ton"
+        },
+        "text": "TON"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/bitcoin.svg",
+          "alt": "Bitcoin"
+        },
+        "text": "BTC"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/tron.svg",
+          "alt": "tron"
+        },
+        "text": "TRX"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/litecoin.svg",
+          "alt": "litecoin"
+        },
+        "text": "LTC"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/usdc.svg",
+          "alt": "usdc"
+        },
+        "text": "USDC"
+      },
+      {
+        "img": {
+          "src": "/img/home/features/currency/binance-coin.svg",
+          "alt": "binance coin"
+        },
+        "text": "BNB"
+      }
+    ]
+  }
+]
